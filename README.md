@@ -74,7 +74,7 @@ I love to learn new things and I like to share what I learn.
     </td>
    <td align="center" width="96">
       <a href="#">
-        <img src="https://worldvectorlogo.com/logo/microsoft-sql-server-1" width="48" height="48" alt="SQL Server" />
+        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="48" height="48" alt="SQL Server" />
       </a>
       <br>SQL Server
     </td>
