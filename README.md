@@ -1,7 +1,5 @@
 # Houssam Sadouk Portfolio
-<h1 align="center">Hi <img loading="lazy" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "28px"/> I'm Houssam Sadouk</h1><a href="#">
-   <img src="https://komarev.com/ghpvc/?username=Jaycharole&style=flat-square&label=Profile+Visitors&color=green" alt="Jaycharole" />
- </a>
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/houssam-sadouk/">
