@@ -12,21 +12,20 @@
 </p>
 
 
-<h2 align="center">A passionate Data Science enthusiast from India.</h2>
+<h2 align="center">A passionate Data Analyst/Data Scientist enthusiast from Morocco.</h2>
 
 
 
 ### About me 🤓
-Hey hello everyone, myself Houssam Sadouk. Currently I am pursuing my Master's in Data Science and Big Data analytics. I may use complex words at times, but I'm really a simple guy who loves simplify complex things. 
+Hey hello everyone, myself Houssam Sadouk. Passionate about data and computer science, I would like to apply my knowledge acquired during my career. For this I am looking for a relevant experience that will help me improve my skills and my career path. 
+As a fresh graduated i would like to improve my experience and knowledge in analyzing and predictive modeling, data processing, as well as scripting languages, including Python, SQL,Spreadsheet,Power BI and more to make me capable of creating, developing ,testing ,and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.
 
-I am keen enthusiast of Artificial Intelligence, Machine Learning, Data Science, Deep Learning and Programming related stuffs. Also I love other stuffs like Graphic Designing, Block chain, Web Development, Application Development, making short films, etc.
+I am keen enthusiast of Artificial Intelligence, Machine Learning, Data Science, Deep Learning and Programming related stuffs.
 
-I love to learn new things and I like to share what I learn. With the motive of sharing knowledge I have came with Data Crux as a platform. So i started blogging out of my passion for learning and sharing. 
-Well, I write blogs with the perspective of improving myself at every point of time and also trying to enrich the life of the readers. 
-
+I love to learn new things and I like to share what I learn. 
 
   
-- 🔭 I’m currently working Power BI and Tableau Projects
+- 🔭 I’m currently working Power BI ,Tableau Projects and more 
 
 - 🌱 I’m currently learning **Everyday i challenge myself to be better **
 
@@ -85,12 +84,7 @@ Well, I write blogs with the perspective of improving myself at every point of t
       </a>
       <br>Plotly
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img loading="lazy" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-      </a>
-      <br>Flask
-    </td> 
+    
   </tr>
   <tr> 
      <td align="center" width="96">
