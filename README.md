@@ -121,7 +121,13 @@ I love to learn new things and I like to share what I learn.
       </a>
       <br>Excel
 </td>
-
+</td>
+    <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Apache Spark" width="40" height="40"/>
+      </a>
+      <br>Apache Spark
+</td>
   </tr>
   
 <tr>
