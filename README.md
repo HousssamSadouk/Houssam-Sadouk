@@ -184,12 +184,12 @@ I love to learn new things and I like to share what I learn.
       <br>MS Office
 </td>
 
-<!--<td align="center" width="96">
+<td align="center" width="96">
       <a href="#" >
-        <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="beautiful-soup" width="40" height="40"/>
+        <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="40" height="40"/>
       </a>
-      <br>BeautifulSoup
-</td>-->
+      <br>JavaScript
+</td>
 </tr>
 </table>
 
