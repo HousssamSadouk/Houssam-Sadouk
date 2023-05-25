@@ -93,12 +93,7 @@ I love to learn new things and I like to share what I learn.
       </a>
       <br>Git
     </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img loading="lazy" src="https://raw.githubusercontent.com/simple-icons/simple-icons/74c824a960f1f6c8640bc8cb678f1bf4c9e0669f/icons/streamlit.svg" alt="streamlit" width="40" height="40"/>
-      </a>
-      <br>Streamlit
-    </td>
+  
     
  <td align="center" width="96">
       <a href="#">
@@ -120,18 +115,8 @@ I love to learn new things and I like to share what I learn.
       </a>
       <br>GDS
 </td>
-     <td align="center" width="96"> 
-      <a href="#" >
-        <img src="">
-      </a>
-      <br>IBM Cognos
-</td>
-<td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-</td>
+    
+
   </tr>
   
 <tr>
@@ -141,12 +126,7 @@ I love to learn new things and I like to share what I learn.
       </a>
       <br>MySQL
 </td>
-<td align="center" width="96">
-      <a href="#">
-        <img loading="lazy" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="40" height="40"/>
-      </a>
-      <br>Oracle
-</td>
+
 <td align="center" width="96">
       <a href="#" >
         <img loading="lazy" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongo-db" width="40" height="40"/>
@@ -170,21 +150,11 @@ I love to learn new things and I like to share what I learn.
       </a>
       <br>Selenium
 </td> 
-<td align="center" width="96">
-      <a href="#" >
-        <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="beautiful-soup" width="40" height="40"/>
-      </a>
-      <br>BeautifulSoup
-</td>
+
 </tr>
 
 <tr>
-<td align="center" width="96">
-      <a href="#">
-        <img loading="lazy" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> 
-      </a>
-      <br>Django
-</td>
+
 <td align="center" width="96">
       <a href="#">
         <img loading="lazy" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
@@ -219,29 +189,14 @@ I love to learn new things and I like to share what I learn.
 </table>
 
 
-
-
-# Github Stats 📈📊
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jaycharole&show_icons=true&theme=dracula" />
-  <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=Jaycharole&theme=dracula&hide_border=true" />
-</div>
-
-<br/><br/>
-
-[![Jay’s github activity graph](https://activity-graph.herokuapp.com/graph?username=Jaycharole&theme=dracula)](https://github.com/Jaycharole)
-
 ---
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/CharoleJay"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="#" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jay-charole-2ab005153/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="#" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/houssam-sadouk/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="#" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="#" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/jaycharole" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="#" height="30" width="40" /></a>
-<a href="https://www.instagram.com/im_jaycharole004/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="#" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="#" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="#" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/houssamssadouk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="#" height="30" width="40" /></a>
+
 </p>
 
 **Thanks and Regards ❤**
