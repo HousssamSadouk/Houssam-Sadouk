@@ -115,7 +115,12 @@ I love to learn new things and I like to share what I learn.
       </a>
       <br>GDS
 </td>
-    
+    <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="Excel" width="40" height="40"/>
+      </a>
+      <br>Excel
+</td>
 
   </tr>
   
