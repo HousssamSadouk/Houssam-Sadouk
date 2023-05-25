@@ -157,9 +157,15 @@ I love to learn new things and I like to share what I learn.
 </td>
 <td align="center" width="96">
       <a href="#" >
-        <img loading="lazy" src="https://raw.githubusercontent.com/simple-icons/simple-icons/74c824a960f1f6c8640bc8cb678f1bf4c9e0669f/icons/selenium.svg" alt="selenium" width="40" height="40"/>
+        <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" alt="Azure" width="40" height="40"/>
       </a>
-      <br>Selenium
+      <br>Azure
+</td> 
+<td align="center" width="96">
+      <a href="#" >
+        <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Cloud" width="40" height="40"/>
+      </a>
+      <br>AWS Cloud
 </td> 
 
 </tr>
@@ -195,6 +201,12 @@ I love to learn new things and I like to share what I learn.
         <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="40" height="40"/>
       </a>
       <br>JavaScript
+</td>
+<td align="center" width="96">
+      <a href="#" >
+        <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/google-cloud-3.svg" alt="Google Cloud" width="40" height="40"/>
+      </a>
+      <br>Google Cloud
 </td>
 </tr>
 </table>
